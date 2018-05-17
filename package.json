@@ -1,0 +1,15 @@
+{
+  "name": "nicholas_drew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nicholas-drew-solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
